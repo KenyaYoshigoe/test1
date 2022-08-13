@@ -1,0 +1,142 @@
+body{
+  background-image: url(https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/first-view/top-hero.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-color: #FF9900;
+}
+.parent{
+  position: relative;
+}
+.topgazou{
+  width: 200px;
+  height: auto;
+}
+.font-black{
+  color: #000000;
+}
+.font-white{
+  color: #FFFFFF;
+}
+.font-silver{
+  color: #C0C0C0;
+}
+.font-bold{
+  font-weight: bold;
+}
+.font-size1::first-line{
+  font-size: 14px;
+}
+.font-size2{
+  font-size: 38px;
+}
+.font-size3{
+  font-size: 12px;
+}
+.font-size4{
+  font-size: 40px;
+}
+.block{
+  display: block;
+}
+.inline-block{
+  display: inline-block;
+}
+.none{
+  text-decoration: none;
+}
+.back-orange{
+  background-color: #FF9900;
+}
+.back-orange:hover{
+  background-color: #FFCC66;
+}
+.daen{
+  width: 120px;
+  height: 20px;
+  border-radius: 50px;
+  padding: 10px;
+}
+.daen2{
+  width: 15%;
+  border-radius: 50px;
+  padding: 20px
+}
+.daen3{
+  width: 9%;
+  border:solid;
+  border-radius: 50px;
+  padding:20px;
+  border-color: #DDDDDD;
+}
+.parent1{
+  width: auto;
+  position:absolute;
+  font-size: 10px;
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+}
+.child{
+  position: absolute;
+}
+.top--130{
+  top: -130px;
+}
+.top--100{
+  top: -100px;
+}
+.top-0{
+  top: 0;
+}
+.right-0{
+  right: 0;
+}
+.left-0{
+  left: 0;
+}
+.top-20{
+  top: 20px;
+}
+.top-80{
+  top: 80px;
+}
+.top-100{
+  top: 100px;
+}
+.top-120{
+  top: 120px;
+}
+.top-180{
+  top: 180px;
+}
+.top-200{
+  top: 200px;
+}
+.top-250{
+  top: 250px;
+}
+.left-200{
+  left: 200px;
+}
+.left-250{
+  left: 230px;
+}
+.left-300{
+  left: 300px;
+}
+.left-750{
+  left: 750px;
+}
+.relative{
+  position: relative;
+}
+.text-center{
+  text-align: center;
+}
+.gazoumaru{
+  padding: 25px 0;
+}
+.parent2{
+  display: flex;
+  align-items: center;
+}
